@@ -1,70 +1,5 @@
 # Coding Interview University
 
-> I originally created this as a short to-do list of study topics for becoming a software engineer,
-> but it grew to the large list you see today. After going through this study plan, [I got hired
-> as a Software Development Engineer at Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
-> You probably won't have to study as much as I did. Anyway, everything you need is here.
->
-> I studied about 8-12 hours a day, for several months. This is my story: [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
->
-> The items listed here will prepare you well for a technical interview at just about any software company,
-> including the giants: Amazon, Facebook, Google, and Microsoft.
->
-> *Best of luck to you!*
-
-<details>
-<summary>Translations:</summary>
-
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Polish](translations/README-pl.md)
-- [繁體中文](translations/README-tw.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Russian](translations/README-ru.md)
-- [German](translations/README-de.md)
-- [Bahasa Indonesia](translations/README-id.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-
-</details>
-
-<details>
-<summary>Translations in progress:</summary>
-
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-- [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Ukrainian](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Urdu](https://github.com/jwasham/coding-interview-university/issues/519)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-
-</details>
-
-## What is it?
-
-This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
-
-![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
-
-This is meant for **new software engineers** or those switching from
-software/web development to software engineering (where computer science knowledge is required). If you have
-many years of experience and are claiming many years of software engineering experience, expect a harder interview.
-
-If you have many years of software/web development experience, note that large software companies like Google, Amazon,
-Facebook and Microsoft view software engineering as different from software/web development, and they require computer science knowledge.
-
-If you want to be a reliability engineer or operations engineer, study more from the optional list (networking, security).
-
----
-
 ## Table of Contents
 
 - [What is it?](#what-is-it)
@@ -235,8 +170,8 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 ## Don't feel you aren't smart enough
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
-- [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [X] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [X] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## About Video Resources
 
@@ -249,8 +184,8 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
-- [ ] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [X] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
+- [X] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
